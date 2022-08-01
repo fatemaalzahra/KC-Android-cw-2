@@ -1,0 +1,15 @@
+public class Main
+{
+	public static void main(String[] args) {
+		int hight= 160 ;
+		int x = 100;
+		if (x<hight){
+		    System.out.println("you cannot come in");
+		    
+		}else {
+		     System.out.println("you can come in");
+		}
+		
+	}
+	
+}
